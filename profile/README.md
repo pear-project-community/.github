@@ -1,4 +1,6 @@
 ## Hi there 👋
 
+Welcome to the community repository of pearOS.
 
-It's currently on development ; )
+---
+
